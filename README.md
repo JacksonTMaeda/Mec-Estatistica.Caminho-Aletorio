@@ -3,3 +3,4 @@ O programa foi feito para analisar o problema do caminhoo aleatorio, descrito no
 
 O programa foi feito durante o estudo do primeiro capítulo do livro 'Introdução a Física Estatística' do autor Silvio Salinas, referente a matéria de Mecânica Estatística da Universidade Estadual de Londrina.
 
+OBSERVAÇÃO: O programa foi feito para APRENDER a programar em python enuanto estudo a materia de mecânica estatística.
